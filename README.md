@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mohansahu.myselfproject.org" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://myselfproject.org" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mohan-sahu-36165b190" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mohansahualbert@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.youtube.com/@explore_with_mohan" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
