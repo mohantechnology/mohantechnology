@@ -42,6 +42,7 @@ Full Stack Engineer with **4+ years** of experience building and shipping produc
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
+| **AI Interviewer**  | AI agent that helps users to prepare for interiview. Feature includes topic customization, text code submission, whiteboard submission, result summary and feedback | React.js, Node.js, Postgres, WebRTC | [GitHub](https://github.com/mohantechnology/ai-job-ready) · [Live](https://ai-interview.myselfproject.org/) |
 | **Chat App** ⭐ 6 | Real-time chat with Socket.io, WebRTC P2P video calling, friend system, JWT auth, multi-file sharing | Node.js, MongoDB, Socket.io, WebRTC | [GitHub](https://github.com/mohantechnology/chat-app) · [Live](https://chat-app.myselfproject.org) |
 | **CMS Website** | College CMS with PDF similarity detection (Myers' diff), teacher/student portals, Dockerized | PHP, MySQL, Docker, AJAX | [GitHub](https://github.com/mohantechnology/cms-php) · [Live](https://college-cms.myselfproject.org) |
 | **E-Commerce Dashboard** | React dashboard with sales stats, product search, order & client management, interactive charts | React.js, Chart.js, MUI | [GitHub](https://github.com/mohantechnology/react-assign) · [Live](https://ecom.myselfproject.org) |
